@@ -14,7 +14,7 @@ public class AssertionsExample {
 		int i=10, j=20;
 		
 //		Assert.assertTrue(i>j);
-		Assert.assertTrue("i is not greater",i>j);
+		Assert.assertTrue("i is not greaterrr",i>j);
 		System.out.println("Continue");
 		
 		
